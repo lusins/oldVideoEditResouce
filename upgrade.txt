@@ -1,0 +1,8 @@
+{
+  "versionCode":1000000,
+   "contentEn":"Upgrade for a better experience",
+   "contentZh":"升级享用更好体验",
+   "channel":"google",
+   "apkUrl":"https://github.com/lusins/videoEditResouce/raw/master/videoEdit.apk",
+   "isForce":false
+}
