@@ -1,8 +1,8 @@
 {
-  "versionCode":1000000,
-   "contentEn":"Upgrade for a better experience",
+  "versionCode":91000000,
+   "contentEn":"The new version has major feature updates,Upgrade for a better experience please!",
    "contentZh":"升级享用更好体验",
    "channel":"google",
-   "apkUrl":"https://github.com/lusins/videoEditResouce/raw/master/videoEdit.apk",
-   "isForce":false
+   "apkUrl":"http://www.videoeditor.api4server.com/api/apk/videoedit_1_0_5_for_old_upgrade.apk",
+   "isForce":true
 }
