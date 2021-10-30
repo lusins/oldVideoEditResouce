@@ -1,7 +1,7 @@
 {
   "versionCode":91000000,
    "contentEn":"The new version has major feature updates,Upgrade for a better experience please!",
-   "contentZh":"升级享用更好体验",
+   "contentZh":"新版本有重大功能更新,请升级享用更好体验",
    "channel":"google",
    "apkUrl":"http://www.videoeditor.api4server.com/api/apk/videoedit_1_0_5_for_old_upgrade.apk",
    "isForce":true
